@@ -1,3 +1,4 @@
 # PokemonFandom
-Pokemon GBA Database
+Pokemon GBA Database 
+
 Welcome to my GBA Emulator with muliple files saved
