@@ -21,7 +21,6 @@
     "pokemonred":"Pokemon Fire Red",
     "pokemonlp":"Pokemon Light Platinum (Ruby Mod)",
     "gaia":"Pokemon Gaia (Fire Red Mod)",
-    "GSChronicles":"Pokemon GS Chronicles",
     "mega-power-b5.58":"Pokemon Mega Power",
     "MoonGalaxy":"Pokemon Moon Galaxy",
     "Saiph":"Saiph",
